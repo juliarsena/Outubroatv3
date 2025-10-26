@@ -1,5 +1,5 @@
 📚 Portal da Literatura — Atividade 03
-***LINK DA PAGINA***: 
+***LINK DA PAGINA***: https://juliarsena.github.io/Outubroatv3/
 
 ----
 Autor: Julia Rodrigues
